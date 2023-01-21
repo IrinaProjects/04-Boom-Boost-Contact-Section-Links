@@ -37,4 +37,16 @@ html {
 
 .contacts {
   font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// .text-icons {
+//   font-size: 30px;
+//   color: rgb(86, 70, 232);
+// }
+
+.second {
+  margin-left: 10px;
 }
